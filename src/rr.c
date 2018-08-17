@@ -5,6 +5,6 @@
 
 int main(int argc, char **argv)
 {
-	printf("Roadrunner/n");
+	printf("Roadrunner\n");
 	return 0;
 }
