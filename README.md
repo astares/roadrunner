@@ -1,14 +1,15 @@
 # Roadrunner - tiny and fast
 
-## Installation
+![Roadrunner](www/pic/roadrunner.png)
 
+## Installation
+Checkout the project using 
 ```posh
 git clone https://github.com/astares/roadrunner.git
 make
 ```
-![Roadrunner](www/pic/roadrunner.png)
-
 ## Compilation
+The sourcecode includes a [**makefile**](makefile) for build purposes.
 
 Run 
 ```console
