@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include <roadrunner/rr.h>
+#include <rrvm/rr.h>
 
 int main(int argc, char **argv)
 {
