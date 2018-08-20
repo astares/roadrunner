@@ -22,7 +22,7 @@ all: executable
 
 # build executable
 executable:
-	$(CC) $(SRC_DIR)/rr.c -I$(INC_DIR) -o $(BIN_DIR)/$(EXE_VM)
+	$(CC) $(SRC_DIR)/rrm.c -I$(INC_DIR) -o $(BIN_DIR)/$(EXE_VM)
 
 # clean the build	
 clean:
