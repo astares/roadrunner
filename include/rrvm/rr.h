@@ -5,4 +5,8 @@ typedef struct {
 	int flags;
 } VirtualMachine;
 
+
+int rrvm_create();
+
+
 #endif
